@@ -1,0 +1,65 @@
+.logo {
+    font-family: "Montserrat", sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 48px;
+    letter-spacing: -0.02em;
+    color: #0A1B32;
+    margin-left: 80px;
+    margin-top: 37px;
+}
+
+.logo-dot {
+    color: #A3DC00;
+}
+
+.main-title {
+    max-width: 495px;
+    width: 100%;
+    font-family: "Ramaraja", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 72px;
+    line-height: 76px;
+    letter-spacing: 0.02em;
+    color: #1B0A42;
+    margin-left: 200px;
+    margin-top: 281px;
+}
+
+.main-info {
+    max-width: 583px;
+    width: 100%;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 32px;
+    letter-spacing: 0.02em;
+    color: #9A9A9A;
+    margin-left: 200px;
+    margin-top: 10px;
+}
+
+.main-button {
+    background-color: #A3DC00;
+    width: 152px;
+    height: 64px;
+    margin-left: 200px;
+    margin-top: 50px;
+    border: none;
+    border-radius: 6px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 32px;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: white;
+}
+
+section {
+    display: inline-block;
+}
